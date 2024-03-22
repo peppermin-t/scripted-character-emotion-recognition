@@ -1,21 +1,11 @@
-# 数据挖掘导论大作业
+# scripted-character-emotion-recognition
 
-第9届CCF大数据与计算智能大赛——剧本角色情感识别赛道
+project for 21-22 Introduction to Data Mining course, School of Computer Science and Engineering, Beihang University; Also model for CCF Big Data & Computing Intelligence Contest Enrollment.
 
-编号218924队伍参赛代码
+## Task Introduction
 
-## 任务说明
+See [competition introduction](https://www.datafountain.cn/competitions/518).
 
-详见大赛[赛题介绍](https://www.datafountain.cn/competitions/518)
+## Dataset
 
-## 数据说明
-
-详见大赛[数据介绍](https://www.datafountain.cn/competitions/518/datasets)
-
-## 运行过程
-
-```bash
-python main.py
-```
-
-另附notebook版本，内容相同，可直接运行。
+See [dataset introduction](https://www.datafountain.cn/competitions/518/datasets).
